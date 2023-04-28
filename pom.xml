@@ -55,7 +55,7 @@
         <junit.addons.version>1.4</junit.addons.version>
         <mockito.version>1.10.19</mockito.version>
         <maven.jar.plugin.version>2.6</maven.jar.plugin.version>
-        <netty.version>4.1.68.Final</netty.version>
+        <netty.version>4.1.77.Final</netty.version>
         <netty-tcnative.version>2.0.34.Final</netty-tcnative.version>
         <tcnative.classifier>linux-x86_64-fedora</tcnative.classifier>
         <tcnative.classifier.ubuntu>linux-x86_64</tcnative.classifier.ubuntu>
@@ -64,7 +64,7 @@
         <commons-io.version>2.7</commons-io.version>
         <commons-cli.version>1.4</commons-cli.version>
         <joda.time.version>2.8</joda.time.version>
-        <mina.version>2.4.0</mina.version>
+        <mina.version>2.9.2</mina.version>
         <woodstox.core.asl.version>4.4.1</woodstox.core.asl.version>
         <guava.version>27.1-jre</guava.version>
         <scala.version>2.11.12</scala.version>
@@ -110,7 +110,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <code.coverage.project.folder>${basedir}/../</code.coverage.project.folder>
         <code.coverage.overall.data.folder>${basedir}/target/</code.coverage.overall.data.folder>
-        <bouncy.castle.version>1.67</bouncy.castle.version>
+        <bouncy.castle.version>1.69</bouncy.castle.version>
     </properties>
     <dependencyManagement>
         <dependencies>
