@@ -42,7 +42,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.source.version>1.8</java.source.version>
         <!-- Dependency versions-->
-        <opendaylight.yangtools.version>3.0.16</opendaylight.yangtools.version>
+        <opendaylight.yangtools.version>5.0.0</opendaylight.yangtools.version>
         <opendaylight.yangtools.extra30x.version>1.0.16</opendaylight.yangtools.extra30x.version>
         <log4j2.version>2.8.2</log4j2.version>
         <slf4j.log4j.version>1.7.7</slf4j.log4j.version>
@@ -66,7 +66,7 @@
         <joda.time.version>2.8</joda.time.version>
         <mina.version>2.4.0</mina.version>
         <woodstox.core.asl.version>4.4.1</woodstox.core.asl.version>
-        <guava.version>27.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <scala.version>2.11.12</scala.version>
         <zk.version>0.10</zk.version>
         <osgi.core.version>6.0.0</osgi.core.version>
