@@ -110,7 +110,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <code.coverage.project.folder>${basedir}/../</code.coverage.project.folder>
         <code.coverage.overall.data.folder>${basedir}/target/</code.coverage.overall.data.folder>
-        <bouncy.castle.version>1.67</bouncy.castle.version>
+        <bouncy.castle.version>1.69</bouncy.castle.version>
     </properties>
     <dependencyManagement>
         <dependencies>
