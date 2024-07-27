@@ -97,7 +97,7 @@
         <commons-collections.version>3.2.2</commons-collections.version>
         <mchange.c3p0.osgi.version>0.9.5.2_1</mchange.c3p0.osgi.version>
         <commons-jxpath.version>1.3</commons-jxpath.version>
-        <fasterxml.jackson.version>2.10.1</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.15.0</fasterxml.jackson.version>
         <!-- Sonar Configuration Properties -->
         <sonar.language>java</sonar.language>
         <commons.codec.version>1.13</commons.codec.version>
