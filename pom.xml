@@ -61,7 +61,7 @@
         <tcnative.classifier.ubuntu>linux-x86_64</tcnative.classifier.ubuntu>
         <org.springframework.boot.version>1.2.5.RELEASE</org.springframework.boot.version>
         <org.antlr.version>4.7.1</org.antlr.version>
-        <commons-io.version>2.7</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <commons-cli.version>1.4</commons-cli.version>
         <joda.time.version>2.8</joda.time.version>
         <mina.version>2.4.0</mina.version>
